@@ -109,7 +109,7 @@ The extension is designed with a local-first approach for performance and privac
 
 1. Clone the repository
 
-   git clone https://github.com/your-username/snatchy.git
+   git clone https://github.com/parthtyagi9/snatchy.git
    cd snatchy
 
 2. Open Chrome and go to chrome://extensions/
