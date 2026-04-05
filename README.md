@@ -4,7 +4,7 @@ Take text from anywhere on the web, even where it is not selectable.
 
 Snatchy is a Chrome extension that allows users to select and copy text from images, scanned documents, and other non-selectable content using OCR and AI.
 
----
+--- 
 
 ## Overview
 
