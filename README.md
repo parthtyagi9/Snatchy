@@ -87,7 +87,7 @@ The extension is designed with a **local-first approach** for performance and pr
 
 ```
 ┌─────────────────────────────┐
-│  Content Scripts (DOM)       │  Extract images, render overlays
+│  Content Scripts (DOM)      │  Extract images, render overlays
 ├─────────────────────────────┤
 │  Service Worker             │  Handle background logic
 ├─────────────────────────────┤
